@@ -838,7 +838,7 @@ h3.tittle-w3ls.two {
 
 /*--//features--*/
 .services {
-    background: url(../images/banner4.jpg) no-repeat top;
+    background: url(s1.jpg) no-repeat top;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -2269,6 +2269,7 @@ a.move-top span {
 }
 
 /*--//responsive--*/
+
 h2.text-center.txk {
     font-size: 30px;
     font-weight: 800;
